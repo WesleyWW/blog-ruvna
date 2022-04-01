@@ -1,7 +1,7 @@
 ---
 layout: post.hbs
 title: Another Post Title
-author: WWW
+author: WW
 date: 2022-04-01T19:23:49.155Z
 thumbnail: /images/uploads/screen-shot-2022-01-14-at-2.27.50-pm.png
 ---
